@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE accounts SYSTEM "accounts.dtd">
+<accounts>
+    <account>
+        <id>1</id>
+        <image>img.png</image>
+        <username>merrin</username>
+        <email>merrin@merrin.com</email>
+        <password>merrin</password>
+        <edit>
+            edit.php?id=1;
+        </edit>
+        <delete>
+            delete.php?id=1;
+        </delete>
+        <confirm>
+            return confirm('Delete this account?');
+        </confirm>
+    </account>
+    <account>
+        <id>2</id>
+        <image>img.png</image>
+        <username>monica</username>
+        <email>monica@merrin.com</email>
+        <password>monica</password>
+        <edit>
+            edit.php?id=2;
+        </edit>
+        <delete>
+            delete.php?id=2;
+        </delete>
+        <confirm>
+            return confirm('Delete this account?');
+        </confirm>
+    </account>
+<account><id>6653fc12cbb5c</id><image>images/654179_front.jpg</image><username>test</username><email>test@test.com</email><password>test</password></account><account><id>6653fc3796b8e</id><image>images/vira.png</image><username>testing</username><email>testing@testing.com</email><password>testing</password></account></accounts>

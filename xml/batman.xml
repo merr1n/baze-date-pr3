@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="320" height="196">
+            
+                <g class = "batman_logo" transform = "translate(5,5)">
+            
+                    <g class = "background_shield">
+    
+                        <ellipse cx = "150" cy = "93" ry="93" rx = "150.5" stroke="#000000" stroke-width="9" fill = "#FFF200"></ellipse>
+                
+                    </g>
+            
+                    <g class = "bat_symbol">
+                
+                        <path stroke-width = "1" stroke = "#000000" fill = "#000000" d = "M150, 30 L140, 30 L132, 19 C 134, 100 67, 83 102, 20 C0,70 0, 100   70, 156 C 38 125 81 105, 107 145 C 115 127.6 140 127.6 149.5 169 L150, 30 z">
+                
+                        </path>
+                    
+                    </g>
+                    
+                    <g class = "bat_symbol_flipped" transform = "scale(-1, 1) translate(-299, 0)">
+                
+                        <path stroke-width = "1" stroke = "#000000" fill = "#000000" d = "M150, 30 L140, 30 L132, 19 C 134, 100 67, 83 102, 20 C0,70 0, 100   70, 156 C 38 125 81 105, 107 145 C 115 127.6 140 127.6 149.5, 169 L150, 30 z">
+                
+                        </path>
+
+                    </g>
+                
+            </g>
+
+        </svg>
